@@ -1,0 +1,5 @@
+102|Vatanak Vut|19|Computer Science|3.9
+105|Thoeurn Chhengly|21|IBM|3.4
+104|Phal Vichea|20|MIS|3.2
+101|Zhan Zhao|29|AI Engineer|3.1
+103|Leng Vuthy|25|Agriculture|2.9
