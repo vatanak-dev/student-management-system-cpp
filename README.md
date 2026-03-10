@@ -1,19 +1,18 @@
 # 🎓 Student Management System (C++)
 
-A lightweight console-based application to manage student records, featuring data persistence using file handling.
+A robust console-based application for managing student records with local data persistence.
 
-## 🚀 Features
-- **Add New Students:** Input name, ID, and grades.
-- **Record Persistence:** Data is saved to `student.txt` so it's there when you restart.
-- **Search & Filter:** Find students by their unique ID or NAME.
-- **Clean UI:** Easy-to-navigate console menus.
+## ✨ Features
+- **Full CRUD Support:** Create, Read, Update, and Delete student records.
+- **Data Persistence:** Automatically saves and loads data from `student.txt`.
+- **ID or NAME-Based Search:** Quickly find specific students using their unique ID or NAME.
+- **Error Handling:** Basic validation for user inputs.
 
-## 🛠️ Tech Stack
-- **Language:** C++
-- **Storage:** Text-file based database (`.txt`)
-- **Compiler:** MinGW / GCC
+## 🛠️ How to Compile & Run
+1. Ensure you have a C++ compiler (like MinGW or GCC).
+2. Open Git Bash in this folder.
+3. Run: `g++ student.cpp -o StudentSystem`
+4. Run: `./StudentSystem`
 
-## 📦 How to Run
-1. Clone the repo: `git clone https://github.com/vatanak-dev/student-management-system-cpp.git`
-2. Compile: `g++ main.cpp -o student_system`
-3. Run: `./student_system`
+---
+*Developed by Vatanak - 2026*
